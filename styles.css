@@ -1,0 +1,58 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+
+
+    /*use hexadecimal number for background color*/
+    background-color:
+
+
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+
+
+    /*use hexadecimal number for color*/
+    color: 
+
+
+}
+body{
+    margin: 0px;
+
+    /*use hexadecimal number for background color*/
+    background-color: 
+    
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+
+    /*use hexadecimal number for border color */
+    border: 
+
+
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+
+    /*use hexadecimal number for background color*/
+    background-color: 
+
+    
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
